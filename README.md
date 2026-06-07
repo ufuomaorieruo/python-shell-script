@@ -50,7 +50,7 @@ echo "sudo venv/bin/python app.py"
 # Save the script
 CTRL X, CTRL Y, ENTER
 
-# run the command "ls" to confirm your script
+run the command "ls" to confirm your script
 
 ## Make Script Executable
 chmod +x deploy_webapp.sh
